@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23105670781",
+    "project_id": "harc-ade78",
+    "storage_bucket": "harc-ade78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23105670781:android:dcb83d395fa884e90deb14",
+        "android_client_info": {
+          "package_name": "com.atifdev.harc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23105670781-0e00ubgjkqhr63rm52a5qg4fqv767ubf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAafpvjwfjP0Qe98VoMPkKOdrwSkgYpSEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23105670781-0e00ubgjkqhr63rm52a5qg4fqv767ubf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
